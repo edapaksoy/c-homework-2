@@ -1,0 +1,15 @@
+C:\Users\user\source\repos\homework_2\homework_2\bin\Debug\net10.0\homework_2.exe
+C:\Users\user\source\repos\homework_2\homework_2\bin\Debug\net10.0\homework_2.deps.json
+C:\Users\user\source\repos\homework_2\homework_2\bin\Debug\net10.0\homework_2.runtimeconfig.json
+C:\Users\user\source\repos\homework_2\homework_2\bin\Debug\net10.0\homework_2.dll
+C:\Users\user\source\repos\homework_2\homework_2\bin\Debug\net10.0\homework_2.pdb
+C:\Users\user\source\repos\homework_2\homework_2\obj\Debug\net10.0\homework_2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\source\repos\homework_2\homework_2\obj\Debug\net10.0\homework_2.AssemblyInfoInputs.cache
+C:\Users\user\source\repos\homework_2\homework_2\obj\Debug\net10.0\homework_2.AssemblyInfo.cs
+C:\Users\user\source\repos\homework_2\homework_2\obj\Debug\net10.0\homework_2.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\homework_2\homework_2\obj\Debug\net10.0\homework_2.dll
+C:\Users\user\source\repos\homework_2\homework_2\obj\Debug\net10.0\refint\homework_2.dll
+C:\Users\user\source\repos\homework_2\homework_2\obj\Debug\net10.0\homework_2.pdb
+C:\Users\user\source\repos\homework_2\homework_2\obj\Debug\net10.0\homework_2.genruntimeconfig.cache
+C:\Users\user\source\repos\homework_2\homework_2\obj\Debug\net10.0\ref\homework_2.dll
+C:\Users\user\source\repos\homework_2\homework_2\obj\Debug\net10.0\homework_2.csproj.Up2Date
